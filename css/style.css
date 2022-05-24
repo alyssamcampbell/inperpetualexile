@@ -23,7 +23,7 @@ body {
 }
 
 #contents {
-  padding: 0;
+  padding: 1;
   width: 100%;
   margin-top: 0; /*Adjust if Title header needs more space */
   height: 100%; /* Adjust to fit max Description length, one setting for all; alternative is 100% */
@@ -33,7 +33,7 @@ body {
 
 #top {
   height: 40px;
-  margin: 0;
+  margin: 2;
 }
 
 #space-at-the-bottom {
@@ -64,8 +64,8 @@ body {
 .chapter-container {
   /* margin + padding = chapterContainerMargin in script.js */
   /* Important for scrolling! */
-  margin: 20px 0 0 0;
-  padding: 10px 0 0 0;
+  margin: 40px 0 0 0;
+  padding: 20px 0 0 0;
   text-align: center;
 }
 
@@ -103,7 +103,7 @@ body {
   display: block;
   text-align: center;
   font-size: 1em;
-  padding: 0 1px;
+  padding: 0 4px;
 }
 
 .source {
