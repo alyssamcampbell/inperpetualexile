@@ -55,6 +55,8 @@ body {
   visibility: hidden;
   font-weight: bold;
   text-align: center;
+  font-family: "Caveat", sans-serif;
+
 }
 
 .chapter-container {
