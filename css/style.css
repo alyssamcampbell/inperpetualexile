@@ -102,13 +102,13 @@ body {
 .chapter-header {
   display: block;
   text-align: center;
-  font-size: 1.2em;
+  font-size: 1.0em;
   padding: 0 5px;
   font-family: "Times New Roman", sans-serif;
 }
 
 .source {
-  font-size: 9pt;
+  font-size: 0.9em;
   font-style: italic;
   color: black;
 }
@@ -119,7 +119,7 @@ a.source:visited {
 .description {
   margin: 20px;
   text-align: left;
-  font-size: 9pt;
+  font-size: 0.9em;
   padding: 20px;
 }
 
@@ -172,13 +172,13 @@ a.source:visited {
 /* Storymap title & subtitle */
 h1 {
   margin: 0;
-  font-size: 1.5em;
+  font-size: 1.0em;
   background-color: ;
 }
 
 h2 {
   margin: 0;
-  font-size: 1.1em;
+  font-size: 1.0em;
   font-weight: normal;
   background-color: ;
 }
