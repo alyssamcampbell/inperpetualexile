@@ -41,6 +41,7 @@ body {
   margin: 0;
   text-align: center;
   padding-top: 150px;
+  background-color: lightblue;
 }
 
 #title {
@@ -55,7 +56,8 @@ body {
   visibility: hidden;
   font-weight: bold;
   text-align: center;
-  font-family: "Caveat", sans-serif;
+  font-family: "Times New Roman", sans-serif;
+  background-color: lightblue;
 
 }
 
@@ -170,10 +172,12 @@ a.source:visited {
 h1 {
   margin: 0;
   font-size: 1.5em;
+  background-color: lightblue;
 }
 
 h2 {
   margin: 0;
   font-size: 1.1em;
   font-weight: normal;
+  background-color: lightblue;
 }
