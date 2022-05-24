@@ -148,6 +148,9 @@ a.source:visited {
 .marker-active {
   background-position: -72px 0 !important;
 }
+.extra-marker-star-blue {
+  background-position: -180px -92px
+}
 
 /* Storymap logo image above the title */
 #logo {
