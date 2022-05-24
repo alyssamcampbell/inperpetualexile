@@ -150,6 +150,7 @@ a.source:visited {
   text-align: center;
   padding: 10px;
   max-width: 100%;
+  border: 3px dotted #000000; padding:1em;
 }
 
 #logo img {
