@@ -149,14 +149,13 @@ a.source:visited {
   text-align: center;
   padding: 10px;
   max-width: 100%;
-  border: 3px dotted #000000; padding:1em;
 }
 
 #logo img {
   max-height: 100%;
   max-width: 100%;
   vertical-align: middle;
-  border: 3px dotted #000000; padding:1em;
+  border: 10px solid #000000; padding:1em;
 }
 
 #header {
